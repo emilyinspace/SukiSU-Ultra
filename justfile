@@ -11,3 +11,4 @@ build_manager: build_ksud
 clippy:
     cargo fmt
     cross clippy --target aarch64-linux-android --release
+
